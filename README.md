@@ -62,6 +62,9 @@ Let's say you want to encrypt "Hello World" with a shift of 3:
 
 To decrypt it back, just put "Khoor Zruog" in the input, keep the shift at 3, and click "Decrypt".
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/eb99b130-e236-41c6-beb8-758ade606c1b" />
+
+
 ## Tips for using it
 
 - **File operations**: If you've got a long text file, use the "Load File" button instead of copy-pasting
