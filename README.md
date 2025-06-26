@@ -1,4 +1,4 @@
-# PRODIGY_CY_01
+# PRODIGY_CY
 
 # Caesar Cipher GUI Tool
 
