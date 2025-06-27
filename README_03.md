@@ -2,6 +2,12 @@
 
 A user-friendly GUI application built with Python that evaluates password strength based on common security criteria. The tool provides real-time feedback, detailed analysis, and suggestions for creating stronger passwords.
 
+
+
+https://github.com/user-attachments/assets/23f40594-b6db-4ed2-b512-b873243b6f93
+
+
+
 ## Features
 
 ### 🔐 Password Evaluation
